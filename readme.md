@@ -1,3 +1,4 @@
+![Final-logos-05](/cypress/assets/images/Final-logos-05.png)
 
 ## Installation
 
