@@ -19,4 +19,4 @@ or
 ```sh
 yarn cypress open
 ```
-If you have any problem with the installation you can write an email to: 
+If you have any problem with the installation you can write an email to: assignment-qa@freightos.com
