@@ -1,0 +1,7 @@
+{ 
+ "multiplay": "button[name='*']",
+ "add": "button[name='+']",
+ "subtract": "button[name='-']",
+ "divition": "button[name='÷']",
+ "equal": "button[name='=']"
+}
